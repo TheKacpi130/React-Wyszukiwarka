@@ -10,8 +10,7 @@ export default function ButtonAppBar(props) {
       <AppBar position="static" sx={{ backgroundColor: props.bgColor }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Wyszukiwarka przepisów<br></br>
-            Znajdź swój przepis
+            Recipe finder<br></br>search your own recipe
           </Typography>
         </Toolbar>
       </AppBar>
