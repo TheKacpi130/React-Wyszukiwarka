@@ -11,10 +11,10 @@ export const themeOptions = {
   palette: {
     mode: "light",
     primary: {
-      main: "#bb453a",
+      main: "#3abb48",
     },
     secondary: {
-      main: "#f50057",
+      main: "#039013",
     },
     background: {
       default: "#581414",
